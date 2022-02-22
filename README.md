@@ -1,4 +1,4 @@
-# awesome-tuist [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-gestalt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A community-driven collection of Gestalt related blog posts, tasks, projects, and more.
 
