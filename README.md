@@ -5,7 +5,13 @@ A community-driven collection of Gestalt related blog posts, tasks, projects, an
 ## Table of Contents
 
 - [Videos](#videos)
+- [Plugins](#plugins)
 
+## Plugins
+
+### Renderers
+- [@gestaltjs/gestalt-plugin-react](https://github.com/gestaltjs/gestalt/tree/main/packages/plugin-react): Integrates React into Gestalt projects.
+- [@gestaltjs/gestalt-plugin-vue](https://github.com/gestaltjs/gestalt/tree/main/packages/plugin-vue): Integrates Vue into Gestalt projects.
 
 ## Videos
 
